@@ -10,3 +10,5 @@ trap "rm index.html" EXIT
 
 # Start app
 script/server
+
+#change
